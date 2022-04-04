@@ -1,0 +1,230 @@
+#heading{
+    color: skyblue;
+}
+#sub{
+    font-weight:bold ;
+    color: gray;
+}
+fieldset{
+    background-color: rgba(0, 225, 255, 0.993);
+    width: 400px;
+    color: white;
+    font-weight: bold;
+}
+#B{
+    color: rgba(0, 132, 255, 0.966);
+}
+body{
+    background-color: papayawhip ;
+}
+#Cake{
+    height: 150px;
+    position: relative;
+    left: 280px;
+    bottom: 210px;
+}
+#Fries{
+    height: 150px; 
+    position: relative;
+    right: 140px;
+}
+#Dounut{
+    height: 150px;
+    position: relative;
+    right: 120px;
+}
+
+
+#pizza{
+height: 90px;
+position: relative;
+left: 250px;
+bottom: 200px;
+}
+#ice{
+    height: 90px;
+    position: relative;
+    left: 250px;
+    right: 120px;
+    bottom: 200px;
+}
+#Gd{
+  height: 90px;
+  position: relative; 
+  left: 140px; 
+  bottom: 100px;
+}
+#si{
+    position: relative;
+    bottom: 180px;
+    left: 240px;
+    color:aquamarine;
+}
+#Gd{
+    position: relative;
+    left: 400px;
+    bottom: 280px;
+}
+#AF{
+    position: relative;
+    left: 240px;
+    bottom: 280px;
+    color: gray;
+}
+#sa{
+    height: 90px;
+    position: relative;
+   left: 400px;
+   bottom: 380px;
+}
+#mm{
+    height: 90px;
+    color:orange ;
+    position: relative;
+    left: 220px;
+    bottom: 380px;
+}
+#mi{
+    height:90px;
+    position: relative;
+    left: 400px;
+    bottom: 490px;
+}
+#AA{
+    position: relative;
+    left: 600px;
+    bottom: 1580px;
+}
+#lm{
+    position: relative;
+    left: 160px;
+    bottom: 90px;
+    font-weight: bolder;
+    color: orange;
+}
+#gg{
+    position: relative;
+    left: 180px;
+    bottom: 120px;
+    font-weight: bolder;
+    color: orange;
+}
+#hh{
+    position: relative;
+    left: 220px;
+    bottom: 75px;
+    font-weight: bolder;
+}
+#ff{
+    position: relative;
+    left: 250px;
+    bottom: 75px;
+    font-weight: bolder;
+}
+#ll{
+    position: relative;
+    bottom: 40px;
+    color: skyblue;
+}
+#zz{
+    position: relative;
+    bottom: 90px;
+    color: skyblue;
+}
+#hh{
+    position: relative;
+    bottom: 170px;
+    color: orange;
+}
+#cc{
+    position: relative;
+    bottom: 100px;
+    font-weight: bolder;
+    color: skyblue;
+}
+#ff{
+    position: relative;
+    bottom: 170px;
+    color: orange;
+}
+#qq{
+    color: gray;
+}
+#rr{
+    color: skyblue;
+}
+#tt{
+    position: relative;
+    width: 150px;
+    left: 950px;
+    bottom: 2220px;
+    height: 100px;
+}
+#wwf{
+    position: relative;
+    height: 100px;
+    width: 150px;
+    bottom: 2100px;
+    left:800px;
+}
+#kb{
+    position: relative;
+    height: 100px;
+    width: 150px;
+    bottom: 1950px;
+    left:650px;
+}
+#gm{
+    position: relative;
+    height: 90px;
+    width: 150px;
+    bottom:1850px;
+    left:510px;
+}
+#ws{
+    position: relative;
+    left: 600px;
+    bottom: 1840px;
+}
+#ui{
+color: rgb(235, 135, 177);
+position: relative;
+left: 200px;
+}
+#oi{
+    color: greenyellow;
+    position: relative;
+    bottom: 30px;
+    left: 200px;
+}
+#jj{
+    position: relative;
+    left: 200px;
+    color: red;
+}
+#sm{
+    position: relative;
+    left: 200px;
+    color: skyblue;
+}
+#ks{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    left: 600px;
+    bottom: 2400px;
+}
+#po{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    left: 500px;
+    bottom: 2220px;
+}
+#in{
+    position: relative;
+    height: 100px;
+    width: 100px;
+    left: 400px;
+    bottom: 2000px;
+}
